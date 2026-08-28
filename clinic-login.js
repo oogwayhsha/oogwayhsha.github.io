@@ -159,7 +159,7 @@ loginForm.addEventListener("submit", function (event) {
             setTimeout(() => {
 
                 window.location.href =
-                    "../Main Dashboard/main.html";
+                    "https://jaylo-css.github.io/NUFV_Clinic_Booking_System//Dashboard/dashboard.html?fbclid=IwY2xjawT99TVwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMTZEWHBlMFlzcUNiekdyMVJzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEez5Co6TLoUADvRhREkXE1mWVNPItk-uEwkz06iUL0hRTEf6CE13PxCEoX8Tg_aem_W_bfL1zEv6c_h-cSeeIcAQ";
 
             }, 500);
 
